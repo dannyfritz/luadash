@@ -1,0 +1,11 @@
+{
+  "name": "luadash",
+  "version": "1.0.0",
+  "description": "LoDash for Lua",
+  "main": "luadash.lua",
+  "keywords": [
+    "lodash"
+  ],
+  "author": "Danny Fritz <dannyfritz@gmail.com>",
+  "license": "MIT"
+}
